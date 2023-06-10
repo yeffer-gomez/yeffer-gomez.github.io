@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-   
+    background-color: black;
     background-size: cover;
     background-position: center;
   }
@@ -18,7 +18,7 @@ body {
 
   /* Estilos del encabezado */
   header {
-    background-color: #3007e7;
+    background-color: #b2bbb4;
     color: #fff;
     padding: 20px;
   }
@@ -27,6 +27,21 @@ body {
     margin: 0;
   }
   
+  h2 {
+   color: darkgreen;
+  }
+
+  h3 {
+    color: darkgreen;
+  }
+
+  p{
+    color: darkgreen;
+  }
+
+  li {
+    color: darkgreen;
+  }
   nav ul {
     list-style-type: none;
     padding: 0;
@@ -38,7 +53,7 @@ body {
   }
   
   nav ul li a {
-    color: #fff;
+    color: #f5f0f1;
     text-decoration: none;
   }
   
