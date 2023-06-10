@@ -3,14 +3,19 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url("imagenes/images.avif");
+   
     background-size: cover;
     background-position: center;
-    
-    
-
   }
-  
+.imagen{
+
+  background-image: url("imagenes/fondos-para-páginas-web-6.jpg");
+  width: 500 px;
+  width: 400 px;
+}
+
+
+
   /* Estilos del encabezado */
   header {
     background-color: #3007e7;
