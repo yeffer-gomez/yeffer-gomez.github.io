@@ -3,23 +3,24 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: black;
+    background-color: rgba(48, 45, 45, 0.815);
     background-size: cover;
     background-position: center;
   }
 .imagen{
 
   background-image: url("imagenes/fondos-para-páginas-web-6.jpg");
-  width: 500 px;
   width: 400 px;
+  height: 800 px;
+  
 }
 
 
 
   /* Estilos del encabezado */
   header {
-    background-color: #b2bbb4;
-    color: #fff;
+    background-color: #0c0c0c;
+    color: rgb(9, 243, 9);
     padding: 20px;
   }
   
@@ -28,19 +29,19 @@ body {
   }
   
   h2 {
-   color: darkgreen;
+   color: rgb(9, 243, 9);
   }
 
   h3 {
-    color: darkgreen;
+    color: rgb(9, 243, 9);
   }
 
   p{
-    color: darkgreen;
+    color: rgb(9, 243, 9);
   }
 
   li {
-    color: darkgreen;
+    color: rgb(9, 243, 9);
   }
   nav ul {
     list-style-type: none;
@@ -53,7 +54,7 @@ body {
   }
   
   nav ul li a {
-    color: #f5f0f1;
+    color: rgb(9, 243, 9);
     text-decoration: none;
   }
   
@@ -73,9 +74,9 @@ body {
   
   /* Estilos del pie de página */
   footer {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
+    background-color: #0f0f0f;
+    color: #111111;
+    padding: 5px;
     text-align: center;
   }
   
